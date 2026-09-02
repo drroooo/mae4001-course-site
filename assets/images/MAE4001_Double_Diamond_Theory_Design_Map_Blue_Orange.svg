@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">Double Diamond and Theory-to-Interface Design Logic</title>
+  <desc id="desc">Discover, Define, Develop, and Deliver mapped to user problem, desired outcome, psychological explanation, medium affordance, interface feature, and anticipated effect.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10Z" fill="#52606d"/></marker>
+    <style>
+      .title{font:700 26px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#17212b;text-anchor:middle}.subtitle{font:400 15px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#52606d;text-anchor:middle}.mode{font:700 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#687684;text-anchor:middle;letter-spacing:1.4px}.stage{font:700 19px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#17212b;text-anchor:middle}.action{font:500 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#52606d;text-anchor:middle}.node{font:700 14px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#17212b;text-anchor:middle}.number{font:800 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#fff;text-anchor:middle;dominant-baseline:middle}.gate{font:700 12px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#33404d;text-anchor:middle;letter-spacing:.4px}.legend{font:500 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#33404d}
+    </style>
+  </defs>
+  <rect width="1200" height="600" fill="#fff"/>
+  <text class="title" x="600" y="38">Double Diamond + Theory-to-Interface Design Logic</text>
+  <text class="subtitle" x="600" y="64">The diamonds organize the project; the numbered chain explains and justifies the design.</text>
+  <text class="mode" x="192" y="105">DIVERGE</text><text class="mode" x="468" y="105">CONVERGE</text><text class="mode" x="732" y="105">DIVERGE</text><text class="mode" x="1008" y="105">CONVERGE</text>
+  <polygon points="48,315 324,120 600,315 324,510" fill="#eaf1f8" stroke="#4c78a8" stroke-width="3" stroke-linejoin="round"/>
+  <polygon points="600,315 876,120 1152,315 876,510" fill="#fff1e2" stroke="#f58518" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="324" y1="120" x2="324" y2="510" stroke="#8793a0" stroke-width="1.2" stroke-dasharray="5 6"/><line x1="876" y1="120" x2="876" y2="510" stroke="#8793a0" stroke-width="1.2" stroke-dasharray="5 6"/>
+  <text class="stage" x="186" y="183">DISCOVER</text><text class="action" x="186" y="204">explore users and problems</text>
+  <text class="stage" x="462" y="183">DEFINE</text><text class="action" x="462" y="204">synthesize and frame</text>
+  <text class="stage" x="738" y="183">DEVELOP</text><text class="action" x="738" y="204">generate and justify</text>
+  <text class="stage" x="1014" y="183">DELIVER</text><text class="action" x="1014" y="204">prototype, test, revise</text>
+  <path d="M140 355 C195 408 268 408 324 355 S462 302 516 355 S654 408 708 355 S846 302 900 355 S1035 408 1090 355" fill="none" stroke="#52606d" stroke-width="3" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <g transform="translate(140 355)"><circle r="49" fill="#fff" stroke="#17212b" stroke-width="2"/><circle cx="-39" cy="-39" r="15" fill="#17212b" stroke="#fff" stroke-width="2"/><text class="number" x="-39" y="-39">1</text><text class="node" y="-5"><tspan x="0">User</tspan><tspan x="0" dy="18">problem</tspan></text></g>
+  <g transform="translate(324 355)"><circle r="49" fill="#fff" stroke="#17212b" stroke-width="2"/><circle cx="-39" cy="-39" r="15" fill="#17212b" stroke="#fff" stroke-width="2"/><text class="number" x="-39" y="-39">2</text><text class="node" y="-5"><tspan x="0">Desired</tspan><tspan x="0" dy="18">outcome</tspan></text></g>
+  <g transform="translate(516 355)"><circle r="55" fill="#fff" stroke="#17212b" stroke-width="2"/><circle cx="-43" cy="-43" r="15" fill="#17212b" stroke="#fff" stroke-width="2"/><text class="number" x="-43" y="-43">3</text><text class="node" y="-12"><tspan x="0">Psychological</tspan><tspan x="0" dy="18">explanation</tspan><tspan x="0" dy="18">Why?</tspan></text></g>
+  <g transform="translate(708 355)"><circle r="52" fill="#fff" stroke="#17212b" stroke-width="2"/><circle cx="-41" cy="-41" r="15" fill="#17212b" stroke="#fff" stroke-width="2"/><text class="number" x="-41" y="-41">4</text><text class="node" y="-5"><tspan x="0">Medium</tspan><tspan x="0" dy="18">affordance</tspan></text></g>
+  <g transform="translate(900 355)"><circle r="51" fill="#fff" stroke="#17212b" stroke-width="2"/><circle cx="-40" cy="-40" r="15" fill="#17212b" stroke="#fff" stroke-width="2"/><text class="number" x="-40" y="-40">5</text><text class="node" y="-5"><tspan x="0">Interface</tspan><tspan x="0" dy="18">feature</tspan></text></g>
+  <g transform="translate(1090 355)"><circle r="52" fill="#fff" stroke="#17212b" stroke-width="2"/><circle cx="-41" cy="-41" r="15" fill="#17212b" stroke="#fff" stroke-width="2"/><text class="number" x="-41" y="-41">6</text><text class="node" y="-5"><tspan x="0">Anticipated</tspan><tspan x="0" dy="18">effect</tspan></text></g>
+  <text class="gate" x="600" y="535">DEFINED PROBLEM</text><text class="gate" x="1090" y="535">VALIDATED DESIGN CLAIM</text>
+  <rect x="256" y="560" width="18" height="18" rx="2" fill="#4c78a8"/><text class="legend" x="284" y="574">Problem diamond: understand and define</text>
+  <rect x="650" y="560" width="18" height="18" rx="2" fill="#f58518"/><text class="legend" x="678" y="574">Solution diamond: develop and evaluate</text>
+</svg>
